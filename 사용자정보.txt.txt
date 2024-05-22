@@ -1,2 +1,3 @@
 username : changs0124
 email : haeya0124@naver.com
+name : 성창해
